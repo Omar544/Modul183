@@ -1,0 +1,6 @@
+17:43:27,250 [Modul183.Controllers.LoginController] WARN - Gescheiterter Login!!
+17:44:23,655 [Modul183.Controllers.LoginController] INFO - Erfolgreicher Login
+19:47:11,166 [Modul183.Controllers.LoginController] WARN - Gescheiterter Login!!
+19:47:29,953 [Modul183.Controllers.LoginController] INFO - Erfolgreicher Login
+19:48:14,513 [Modul183.Controllers.EmployeeController] INFO - Eintrag gelöscht !!
+19:48:26,924 [Modul183.Controllers.LoginController] INFO - Omar hat sich ausgeloggt
